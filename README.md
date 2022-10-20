@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - Currently I am developing crowdsourcing and intervention tools that help to aggregate data about news articles and power community-driven review systems. The long-term aim of my research study is to explore recommendation algorithms and how interventions in browsing patterns might improve media literacy.
 
--I am passionate about understanding users’ attitudes and behaviors to enable innovative technologies that make pleasant and healthy online experiences focusing on younger generations. I want to utilize my User Experience Research expertise and specialty in Machine Learning & Natural language Processing and Data Analytics to bridge the gap between users’ needs and technology.
+- I am passionate about understanding users’ attitudes and behaviors to enable innovative technologies that make pleasant and healthy online experiences focusing on younger generations. I want to utilize my User Experience Research expertise and specialty in Machine Learning & Natural language Processing and Data Analytics to bridge the gap between users’ needs and technology.
 Previously, I worked as a Software Engineer at [Lis Nepal Pvt Ltd](https://lisnepal.com.np/)
 
 - 🌱 I’m currently learning fundamental concepts in User Experience Research and Design thinking in HCI
