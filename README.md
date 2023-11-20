@@ -27,5 +27,5 @@ Previously, I worked as a Software Engineer at [Lis Nepal Pvt Ltd](https://lisne
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/PreranaKh2) [![Linkedin: preranak21](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preranak21/)](https://www.linkedin.com/in/preranak21/) 
 
-![Prerana's github stats](https://github-readme-stats.vercel.app/api?username=Preranakh&show_icons=true&hide=["stars"]&hide_border=true)
+<!--![Prerana's github stats](https://github-readme-stats.vercel.app/api?username=Preranakh&show_icons=true&hide=["stars"]&hide_border=true)-->
 
