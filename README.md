@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 Previously, I worked as a Software Engineer at [Lis Nepal Pvt Ltd](https://lisnepal.com.np/)
 
 - 🌱 I’m currently learning fundamental concepts in User Experience Research and Design thinking in HCI
-- I write stuff when I'm in the mood – which isn't always. But when I am, I turn ideas into stories. Find my articles here [Medium articles] (https://medium.com/@preranak1)
+- I write stuff when I'm in the mood – which isn't always. But when I am, I turn ideas into stories. Find my articles here [Medium article](https://medium.com/@preranak1)
 - 📃  You can view my resume here: [My Resume](https://preranakh.github.io/cv/)
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/PreranaKh2) [![Linkedin: preranak21](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preranak21/)](https://www.linkedin.com/in/preranak21/) 
